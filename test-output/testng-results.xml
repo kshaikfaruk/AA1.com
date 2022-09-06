@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37163" started-at="2022-09-06T16:33:41Z" finished-at="2022-09-06T16:34:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37163" started-at="2022-09-06T16:33:41Z" finished-at="2022-09-06T16:34:18Z">
+      <class name="testscript.VerifyMessage">
+        <test-method status="PASS" signature="method()[pri:0, instance:testscript.VerifyMessage@7cd62f43]" name="method" is-config="true" duration-ms="12" started-at="2022-09-06T22:03:41Z" finished-at="2022-09-06T22:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:testscript.VerifyMessage@7cd62f43]" name="method1" is-config="true" duration-ms="3645" started-at="2022-09-06T22:03:41Z" finished-at="2022-09-06T22:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="verifyerrormessage()[pri:0, instance:testscript.VerifyMessage@7cd62f43]" name="verifyerrormessage" duration-ms="32594" started-at="2022-09-06T22:03:45Z" finished-at="2022-09-06T22:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyerrormessage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testscript.VerifyMessage@7cd62f43]" name="teardown" is-config="true" duration-ms="891" started-at="2022-09-06T22:04:18Z" finished-at="2022-09-06T22:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="quite()[pri:0, instance:testscript.VerifyMessage@7cd62f43]" name="quite" is-config="true" duration-ms="1" started-at="2022-09-06T22:04:19Z" finished-at="2022-09-06T22:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quite -->
+      </class> <!-- testscript.VerifyMessage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
